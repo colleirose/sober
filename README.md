@@ -1,9 +1,1 @@
-# <img width="48" src="sober.svg">   Sober
-
-Sober lets users visit Roblox experiences on their Linux desktops.
-
-Not affiliated with Roblox.
-
-This GitHub repository serves as a issue tracker for bugs or feature suggestions.
-
-See [sober.vinegarhq.org](https://sober.vinegarhq.org) for more information.
+i forked this into the wrong fucking place im too tired to delete it go over to https://github.com/Among-Us-Inc/sober instead
